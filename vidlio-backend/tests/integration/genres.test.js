@@ -3,8 +3,8 @@ const { Genre } = require("../../models/genre");
 const { User } = require("../../models/user");
 const mongoose = require("mongoose");
 // implement the integration tests
-let server;
 
+let server;
 describe("/api/genres", () => {
   beforeEach(() => {
     server = require("../../index");
