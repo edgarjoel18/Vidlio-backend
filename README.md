@@ -22,7 +22,7 @@ Vidlio
 
 #### Technologies
 
--
+- Jest
 -
 
 [Back To The Top](#read-me-template)
