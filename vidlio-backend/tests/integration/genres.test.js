@@ -56,10 +56,9 @@ describe("/api/genres", () => {
 
   describe("POST /", () => {
     // Define the happy path, and then in each test, we change
-    // one parameter that clearly aligns with the name of the
-    // test.
-    let token;
-    let name;
+    // one parameter that aligns with the name of the test
+    let token = null;
+    let name = null;
 
     const exec = async () => {
       return await request(server)
