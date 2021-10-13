@@ -17,7 +17,9 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ## Description
-
+A movie renting web app with functions such as search, filter, and like buttons in React.js. 
+This web app is allowed me to refactor code duplication and protect routes. 
+implemented the backend using Express.js for RESTful APIs, route handling, customized middleware functions for authenticating and authorizing users and registered users. Used MongoDB to store the movies, genres, and registered users. 
 
 #### Technologies
 - Express.js
@@ -29,10 +31,6 @@ You're sections headers will be used to reference location of destination.
 [Back To The Top](#read-me-template)
 
 ---
-
-## How To Use
-
-#### Installation
 
 ## Author Info
 
