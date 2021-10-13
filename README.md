@@ -1,6 +1,6 @@
 # Vidlio-backend
 
-<img width="1792" alt="Screen Shot 2021-10-13 at 10 26 42 AM" src="https://user-images.githubusercontent.com/40044944/137184864-9435ebfa-4ee9-489f-acfb-af0164b0aa5f.png">
+<img width="1698" alt="Screen Shot 2021-10-13 at 11 03 22 AM" src="https://user-images.githubusercontent.com/40044944/137188381-4a4205ed-9c59-42e7-989e-2f26cba4c014.png">
 
 ---
 
