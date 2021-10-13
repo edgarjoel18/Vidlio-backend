@@ -32,10 +32,6 @@ implemented the backend using Express.js for RESTful APIs, route handling, custo
 
 ---
 
-## How To Use
-
-#### Installation
-
 ## Author Info
 
 - LinkedIn - [@edgarcatalan](https://www.linkedin.com/in/edgarcatalan10/)
