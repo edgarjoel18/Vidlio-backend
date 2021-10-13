@@ -19,6 +19,8 @@ You're sections headers will be used to reference location of destination.
 
 #### Technologies
 - Express.js
+- mongoose
+- MongoDB
 - jest
 - lodash.js 
 
