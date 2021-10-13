@@ -16,13 +16,10 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Vidlio
-
 
 #### Technologies
-
-- Jest
--
+- Express.js
+- lodash.js 
 
 [Back To The Top](#read-me-template)
 
