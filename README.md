@@ -33,23 +33,6 @@ Vidlio
 
 #### Installation
 
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
-
----
-
-
 ## Author Info
 
 - LinkedIn - [@edgarcatalan](https://www.linkedin.com/in/edgarcatalan10/)
