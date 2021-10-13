@@ -19,6 +19,7 @@ You're sections headers will be used to reference location of destination.
 
 #### Technologies
 - Express.js
+- jest
 - lodash.js 
 
 [Back To The Top](#read-me-template)
