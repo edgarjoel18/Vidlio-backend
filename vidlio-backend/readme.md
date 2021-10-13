@@ -1,54 +1,39 @@
+# Vidlio-backend
 
-## Setup
+<img width="1792" alt="Screen Shot 2021-10-13 at 10 26 42 AM" src="https://user-images.githubusercontent.com/40044944/137184864-9435ebfa-4ee9-489f-acfb-af0164b0aa5f.png">
 
-Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
+---
 
-### Install MongoDB
+### Table of Contents
+You're sections headers will be used to reference location of destination.
 
-To run this project, you need to install the latest version of MongoDB Community Edition first.
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [Author Info](#author-info)
 
-https://docs.mongodb.com/manual/installation/
+---
 
-Once you install MongoDB, make sure it's running.
+## Description
 
-### Install the Dependencies
 
-Next, from the project folder, install the dependencies:
+#### Technologies
+- Express.js
+- mongoose
+- MongoDB
+- jest
+- lodash.js 
 
-    npm i
+[Back To The Top](#read-me-template)
 
-### Populate the Database
+---
 
-    node seed.js
+## How To Use
 
-### Run the Tests
+#### Installation
 
-You're almost done! Run the tests to make sure everything is working:
+## Author Info
 
-    npm test
+- LinkedIn - [@edgarcatalan](https://www.linkedin.com/in/edgarcatalan10/)
 
-All tests should pass.
-
-### Start the Server
-
-    node index.js
-
-This will launch the Node server on port 3900. If that port is busy, you can set a different point in config/default.json.
-
-Open up your browser and head over to:
-
-http://localhost:3900/api/genres
-
-You should see the list of genres. That confirms that you have set up everything successfully.
-
-### (Optional) Environment Variables
-
-If you look at config/default.json, you'll see a property called jwtPrivateKey. This key is used to encrypt JSON web tokens. So, for security reasons, it should not be checked into the source control. I've set a default value here to make it easier for you to get up and running with this project. For a production scenario, you should store this key as an environment variable.
-
-On Mac:
-
-    export vidly_jwtPrivateKey=yourSecureKey
-
-On Windows:
-
-    set vidly_jwtPrivateKey=yourSecureKey
+[Back To The Top](#read-me-template)
