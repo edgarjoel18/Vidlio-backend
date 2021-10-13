@@ -1,7 +1,6 @@
 # Vidlio-backend
 
-![Project Image](project-image-url)
-
+<img width="1792" alt="Screen Shot 2021-10-13 at 10 26 42 AM" src="https://user-images.githubusercontent.com/40044944/137184864-9435ebfa-4ee9-489f-acfb-af0164b0aa5f.png">
 
 ---
 
